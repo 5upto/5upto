@@ -22,9 +22,33 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 
 ## 💻 Technologies and Tools
 
-- **Languages**: Python, C++
-- **Frameworks and Libraries**: TensorFlow, PyTorch, OpenCV, Keras, Scikit-learn, Librosa
-- **Tools**: Git, GitHub, Jupyter Notebooks, Docker, VS Code, Tkinter
+### Languages:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Web Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### AI/ML Libraries:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -32,20 +56,20 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 
 ## 📬 How to Reach Me
 
-- 📧 Email: [shawon.ghosh@example.com](mailto:shawon.ghosh@example.com)
-- LinkedIn: [Shawon Ghosh](https://www.linkedin.com/in/shawon-ghosh/)
-- Twitter: [@ShawonGhosh](https://twitter.com/ShawonGhosh)
+- 📧 Email: [shawonghosh2002@gmail.com](mailto:shawonghosh2002@gmail.com)
+- LinkedIn: [Shawon Ghosh](https://www.linkedin.com/in/5upto/)
+- Twitter: [@ShawonGhosh](https://twitter.com/5upto)
 
 ## 🚀 Projects
 
-### [MedImagePro](https://github.com/your-github-username/MedImagePro)
+### [MedImagePro](https://github.com/5upto/MedImagePro)
 A powerful image processing application for medical images with DICOM support, YOLO-based detection filters, and PDF export functionality.
 
-### [Depression Severity Detection](https://github.com/your-github-username/Depression-Detection)
+### [Depression Severity Detection](https://github.com/5upto/depression-detection-on-social-media)
 A sentiment-guided transformer model for detecting and classifying the severity of depression from social media data.
 
-### [Object Detection Models](https://github.com/your-github-username/Object-Detection)
-Various implementations of object detection models like YOLOv8, Detectron, and ResNet for different use cases.
+### [Security Lighting System](https://github.com/5upto/iot-based-security-lighting-system)
+The Security Lighting System is an intelligent and automated setup designed to enhance security using RFID access control, IR sensors for unauthorized entry detection, and an alert mechanism with LEDs and a buzzer.
 
 ## 👨‍💻 Contributing
 
