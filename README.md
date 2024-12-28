@@ -52,7 +52,7 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 
 ## 📈 GitHub Stats
 
-![Shawon Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Shawon Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5upto&show_icons=true&theme=radical)
 
 ## 📬 How to Reach Me
 
