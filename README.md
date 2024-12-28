@@ -36,6 +36,10 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-008080?style=flat&logo=tkinter&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-000000?style=flat&logo=github&logoColor=white)
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
