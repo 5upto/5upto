@@ -62,7 +62,7 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 
 - ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white) : [shawonghosh2002@gmail.com](mailto:shawonghosh2002@gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) : [Shawon Ghosh](https://www.linkedin.com/in/5upto/) 
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white) : [@ShawonGhosh](https://twitter.com/5upto) 
+- ![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white) : [@ShawonGhosh](https://twitter.com/5upto) 
   
 ## 🚀 Projects
 
