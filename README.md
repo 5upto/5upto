@@ -4,11 +4,6 @@ Welcome to my GitHub! 👋
 
 I am a Computer Science and Engineering graduate from **NIT Rourkela**, completed my B.Tech through the ICCR Scholarship. I have a strong interest in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning**, and **Computer Vision**. Currently, I am focused on **image processing**, **medical image analysis**, and **AI/ML-based applications**.
 
-## 🔭 Current Work
-
-- **MedImagePro**: A tkinter-based application for image operations, including DICOM file support, image filtering, PDF exporting, and detection tasks (YOLO-based filter integration).
-- **AI/ML Research**: I am working on developing and analyzing AI/ML models, specifically in the context of depression detection using sentiment-guided transformers and severity-aware contrastive learning.
-
 ## 🌱 Learning and Research Interests
 
 - **Deep Learning** for image processing and segmentation.
