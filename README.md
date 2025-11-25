@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 👋
 
-I am a Computer Science and Engineering student at **NIT Rourkela**, pursuing my B.Tech through the ICCR Scholarship. I have a strong interest in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning**, and **Computer Vision**. Currently, I am focused on **image processing**, **medical image analysis**, and **AI/ML-based applications**.
+I am a Computer Science and Engineering graduate from **NIT Rourkela**, completed my B.Tech through the ICCR Scholarship. I have a strong interest in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning**, and **Computer Vision**. Currently, I am focused on **image processing**, **medical image analysis**, and **AI/ML-based applications**.
 
 ## 🔭 Current Work
 
@@ -18,7 +18,7 @@ I am a Computer Science and Engineering student at **NIT Rourkela**, pursuing my
 
 ## 👯 Collaborations and Research
 
-I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model development and dataset analysis under the guidance of Dr. Dinesh Singh.
+I am currently a Technology Specialist at **Betopia Group**, where I am involved in cloud solutions development and data analysis, under the OEM department. I have previous industry experience from **Itransition**, **BigBasket**, and research experience from **NIT Rourkela** (under Pankaj K Sa) and **IIT Mandi** (under Dr. Dinesh Singh).
 
 ## 💻 Technologies and Tools
 
@@ -80,14 +80,91 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
   
 ## 🚀 Projects
 
-### [MedImagePro](https://github.com/5upto/MedImagePro)
-A powerful image processing application for medical images with DICOM support, YOLO-based detection filters, and PDF export functionality.
+### 🗂️ [Itemplate – Your Inventory, Your Way](https://github.com/5upto/itemplate)
+- Developed a full-stack inventory management system using **React, Node.js, Express, PostgreSQL**.  
+- Implemented **JWT, Google & GitHub OAuth**, role-based access control, and secure APIs with Helmet & rate limiting.  
+- Added **real-time updates** with Socket.IO for inventory changes & comments.  
+- Integrated **Multer + Cloudinary** for media upload, plus compression, logging, and pagination.  
+- Built a modern UI with **React, TailwindCSS, React Query**, search, and **i18next** internationalization.
 
-### [Depression Severity Detection](https://github.com/5upto/depression-detection-on-social-media)
-A sentiment-guided transformer model for detecting and classifying the severity of depression from social media data.
+---
 
-### [Security Lighting System](https://github.com/5upto/iot-based-security-lighting-system)
-The Security Lighting System is an intelligent and automated setup designed to enhance security using RFID access control, IR sensors for unauthorized entry detection, and an alert mechanism with LEDs and a buzzer.
+### 📚 [Mockbook – Your Fake Book Store](https://github.com/5upto/Mockbook)  
+Frontend: http://mockbook-pro.vercel.app/  
+- Created a full-stack bookstore app using **React, Vite, Node.js, Express, MySQL**.  
+- Implemented **real-time fake book generation** with Faker.js.  
+- Added infinite scroll, search, and smooth user experience.  
+- Built a responsive UI using **TailwindCSS** with Font Awesome icons.  
+- Developed a secure **REST API** with CORS support and efficient filtering.
+
+---
+
+### 👥 [Userly – Your Users, Your Control](https://github.com/5upto/Userly)  
+Live: https://userly-pro.vercel.app/  
+- Developed a full-stack user management system using **React, Node.js, MySQL**.  
+- Implemented **JWT authentication**, bcrypt password hashing, and API rate limiting.  
+- Designed responsive dashboards with **React + TailwindCSS**.  
+- Integrated secure REST endpoints for managing users and roles.  
+- Used environment variables and CORS for safe client-server communication.
+
+---
+
+### 🌦️ [WeatherPro – See Today, Plan Tomorrow](https://github.com/5upto/WeatherPro)  
+Live: https://weather-pro.streamlit.app/    
+- Built a modern weather app using **Streamlit + Plotly** for real-time weather visualization.  
+- Integrated **OpenWeatherMap API** for forecasts and historical data analysis.  
+- Developed a **Vert.x + Gradle** backend for authentication and weather alerts.  
+- Added user features like login, saved locations, and secure endpoints.  
+- Used **Pandas + reactive backend architecture** for efficient processing.
+
+---
+
+### 💬 [Feedalyze – See What Customers Really Think](https://github.com/5upto/aspect-based-sentiment-analysis-amazon-review)  
+- Processed **50,000+ Amazon reviews** using tokenization, stemming, and vectorization.  
+- Improved model accuracy by **12%** using SMOTE for class imbalance.  
+- Trained Decision Tree & Random Forest for sentiment prediction.  
+- Performed EDA to reveal customer behavior patterns.
+
+---
+
+### 🚗 [Carrenter – Rent. Drive. Repeat.](https://github.com/5upto/Carrenter)  
+Live: https://carrenter-one.vercel.app/  
+- Built a full-stack car rental platform using **Spring Boot + PostgreSQL**.  
+- Enhanced data retrieval by **40%** through backend optimization.  
+- Implemented **JWT authentication**, an admin dashboard, and smooth booking flows.  
+- Reduced database latency by **50%** via optimized SQL queries.
+
+---
+
+### 🔐 [Intellidoor – Detect. Notify. Protect.](https://github.com/5upto/iot-based-security-lighting-system)  
+- Designed an intelligent security access & lighting system using **Arduino**.  
+- Integrated **RFID access control**, IR-based intruder detection, RGB LEDs, and buzzer alerts.  
+- Implemented servo-controlled automated doors.  
+- Supported real-time monitoring with UID verification & timed access revocation.  
+- Planned future scalability with mobile integration & camera-based verification.
+
+---
+
+### 🚆 [NIRCTC – Railway Reservation System](https://github.com/5upto/nirctc)  
+- Built a GUI-based ticket booking system handling **1,500+ reservations**.  
+- Optimized SQLite3 operations for **45% faster** search.  
+- Added interactive seat selection and automated email confirmations.  
+- Applied solid OOP principles for maintainable architecture.
+
+---
+
+## 📚 Publications
+
+### **Transformer-Based Model for Building Classification Under Diverse Lighting Conditions (2025)**  
+**Authors:** Shawon Ghosh, Santosh Kumar Panda, Manoj Kumar Bishwal, Pankaj Kumar Sa  
+**Conference:** IEEE International Conference on Innovative Trends in Information Technology  
+**Publisher:** IEEE Xplore  
+
+- Proposed a transformer-based model integrating CNNs and self-attention for robust building classification.  
+- Dataset of **1600 images (10 classes)** collected across NIT Rourkela under varying day/night lighting.  
+- Improved night-image performance using histogram equalization.  
+- Developed a GUI for interactive building classification via image uploads.  
+
 
 ## 👨‍💻 Contributing
 
