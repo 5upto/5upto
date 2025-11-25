@@ -54,7 +54,7 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 
 ### AI/ML Libraries:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/PyTorch-D00000?style=flat&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
