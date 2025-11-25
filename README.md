@@ -40,7 +40,7 @@ I am currently an intern at **IIT Mandi**, where I am involved in AI/ML model de
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-008080?style=flat&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### Databases:
