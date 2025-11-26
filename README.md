@@ -1,16 +1,3 @@
-# Shawon Ghosh's GitHub Profile
-
-Welcome to my GitHub! 👋
-
-I am a Computer Science and Engineering graduate from **NIT Rourkela**, completed my B.Tech through the ICCR Scholarship. I have a strong interest in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning**, and **Computer Vision**. Currently, I am focused on **image processing**, **medical image analysis**, and **AI/ML-based applications**.
-
-## 🌱 Learning and Research Interests
-
-- **Deep Learning** for image processing and segmentation.
-- **Multi-Task Learning (MTL)**, especially in bargaining games and multi-agent systems.
-- **Cyber-Physical Systems** and **Generalizable Robot Learning**.
-- **AI for Healthcare**: Exploring innovative solutions in medical diagnostics.
-
 ## 👯 Collaborations and Research
 
 I am currently a Technology Specialist at **Betopia Group**, where I am involved in cloud solutions development and data analysis, under the OEM department. I have previous industry experience from **Itransition**, **BigBasket**, and research experience from **NIT Rourkela** (under Pankaj K Sa) and **IIT Mandi** (under Dr. Dinesh Singh).
@@ -70,95 +57,11 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ## 📬 How to Reach Me
 
 - ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white) : [shawonghosh2002@gmail.com](mailto:shawonghosh2002@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI3MiIgdmlld0JveD0iMCAwIDcyIDcyIiB3aWR0aD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNOCw3MiBMNjQsNzIgQzY4LjQxODI3OCw3MiA3Miw2OC40MTgyNzggNzIsNjQgTDcyLDggQzcyLDMuNTgxNzIyIDY4LjQxODI3OCwtOC4xMTYyNDUwMWUtMTYgNjQsMCBMOCwwIEMzLjU4MTcyMiw4LjExNjI0NTAxZS0xNiAtNS40MTA4MzAwMWUtMTYsMy41ODE3MjIgMCw4IEwwLDY0IEM1LjQxMDgzMDAxZS0xNiw2OC40MTgyNzggMy41ODE3MjIsNzIgOCw3MiBaIiBmaWxsPSIjMDA3RUJCIi8+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRiIvPjwvZz48L3N2Zz4=&logoColor=white) : [5upto](https://www.linkedin.com/in/5upto/) 
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI3MiIgdmlld0JveD0iMCAwIDcyIDcyIiB3aWR0aD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNOCw3MiBMNjQsNzIgQzY4LjQxODI3OCw3MiA3Miw2OC40MTgyNzggNzIsNjQgTDcyLDggQzcyLDMuNTgxNzIyIDY4LjQxODI3OCwtOC4xMTYyNDUwMWUtMTYgNjQsMCBMOCwwIEMzLjU4MTcyMiw4LjExNjI0NTAxZS0xNiAtNS40MTA4MzAwMWUtMTYsMy41ODE3MjIgMCw4IEwwLDY0IEM1LjQxMDgzMDAxZS0xNiw2OC40MTgyNzggMy41ODE3MjIsNzIgOCw3MiBaIiBmaWxsPSIjMDA3RUJCIi8+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRiIvPjwvZz48L3N2Zz4=&logoColor=white) : [5upto](https://www.linkedin.com/in/5upto/)
+- ![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white) : [@5upto](https://instagram.com/5upto)
+- ![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white) : [@5upto](https://facebook.com/5upto)
 - ![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white) : [@5upto](https://twitter.com/5upto) 
-  
-## 🚀 Projects
 
-### 🗂️ [Itemplate – Your Inventory, Your Way](https://github.com/5upto/itemplate)
-- Developed a full-stack inventory management system using **React, Node.js, Express, PostgreSQL**.  
-- Implemented **JWT, Google & GitHub OAuth**, role-based access control, and secure APIs with Helmet & rate limiting.  
-- Added **real-time updates** with Socket.IO for inventory changes & comments.  
-- Integrated **Multer + Cloudinary** for media upload, plus compression, logging, and pagination.  
-- Built a modern UI with **React, TailwindCSS, React Query**, search, and **i18next** internationalization.
-
----
-
-### 📚 [Mockbook – Your Fake Book Store](https://github.com/5upto/Mockbook)  
-Frontend: http://mockbook-pro.vercel.app/  
-- Created a full-stack bookstore app using **React, Vite, Node.js, Express, MySQL**.  
-- Implemented **real-time fake book generation** with Faker.js.  
-- Added infinite scroll, search, and smooth user experience.  
-- Built a responsive UI using **TailwindCSS** with Font Awesome icons.  
-- Developed a secure **REST API** with CORS support and efficient filtering.
-
----
-
-### 👥 [Userly – Your Users, Your Control](https://github.com/5upto/Userly)  
-Live: https://userly-pro.vercel.app/  
-- Developed a full-stack user management system using **React, Node.js, MySQL**.  
-- Implemented **JWT authentication**, bcrypt password hashing, and API rate limiting.  
-- Designed responsive dashboards with **React + TailwindCSS**.  
-- Integrated secure REST endpoints for managing users and roles.  
-- Used environment variables and CORS for safe client-server communication.
-
----
-
-### 🌦️ [WeatherPro – See Today, Plan Tomorrow](https://github.com/5upto/WeatherPro)  
-Live: https://weather-pro.streamlit.app/    
-- Built a modern weather app using **Streamlit + Plotly** for real-time weather visualization.  
-- Integrated **OpenWeatherMap API** for forecasts and historical data analysis.  
-- Developed a **Vert.x + Gradle** backend for authentication and weather alerts.  
-- Added user features like login, saved locations, and secure endpoints.  
-- Used **Pandas + reactive backend architecture** for efficient processing.
-
----
-
-### 💬 [Feedalyze – See What Customers Really Think](https://github.com/5upto/aspect-based-sentiment-analysis-amazon-review)  
-- Processed **50,000+ Amazon reviews** using tokenization, stemming, and vectorization.  
-- Improved model accuracy by **12%** using SMOTE for class imbalance.  
-- Trained Decision Tree & Random Forest for sentiment prediction.  
-- Performed EDA to reveal customer behavior patterns.
-
----
-
-### 🚗 [Carrenter – Rent. Drive. Repeat.](https://github.com/5upto/Carrenter)  
-Live: https://carrenter-one.vercel.app/  
-- Built a full-stack car rental platform using **Spring Boot + PostgreSQL**.  
-- Enhanced data retrieval by **40%** through backend optimization.  
-- Implemented **JWT authentication**, an admin dashboard, and smooth booking flows.  
-- Reduced database latency by **50%** via optimized SQL queries.
-
----
-
-### 🔐 [Intellidoor – Detect. Notify. Protect.](https://github.com/5upto/iot-based-security-lighting-system)  
-- Designed an intelligent security access & lighting system using **Arduino**.  
-- Integrated **RFID access control**, IR-based intruder detection, RGB LEDs, and buzzer alerts.  
-- Implemented servo-controlled automated doors.  
-- Supported real-time monitoring with UID verification & timed access revocation.  
-- Planned future scalability with mobile integration & camera-based verification.
-
----
-
-### 🚆 [NIRCTC – Railway Reservation System](https://github.com/5upto/nirctc)  
-- Built a GUI-based ticket booking system handling **1,500+ reservations**.  
-- Optimized SQLite3 operations for **45% faster** search.  
-- Added interactive seat selection and automated email confirmations.  
-- Applied solid OOP principles for maintainable architecture.
-
----
-
-## 📚 Publications
-
-### **Transformer-Based Model for Building Classification Under Diverse Lighting Conditions (2025)**  
-**Authors:** Shawon Ghosh, Santosh Kumar Panda, Manoj Kumar Bishwal, Pankaj Kumar Sa  
-**Conference:** IEEE International Conference on Innovative Trends in Information Technology  
-**Publisher:** IEEE Xplore  
-
-- Proposed a transformer-based model integrating CNNs and self-attention for robust building classification.  
-- Dataset of **1600 images (10 classes)** collected across NIT Rourkela under varying day/night lighting.  
-- Improved night-image performance using histogram equalization.  
-- Developed a GUI for interactive building classification via image uploads.  
 
 
 ## 👨‍💻 Contributing
