@@ -50,6 +50,9 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-7A76FF?style=flat&logo=plotly&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=flat&logo=tqdm&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+
 
 
 ## GitHub Stats
