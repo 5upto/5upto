@@ -64,7 +64,7 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### Operating Systems:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDQ4IDQ4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDcuMTIxbDE5LjUxMy0yLjcxNXYxOC4xMzNIMFY3LjEyMXpNMjIuNDg3IDMuOTdsMjUuNTEzLTMuNjg5djIxLjUyMUgyMi40ODdWMzkuOTdsMjUuNTEzLTMuNjg5di0yMS41MjdIMjIuNDg3eiIvPjwvc3ZnPg==&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
