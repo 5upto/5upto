@@ -30,6 +30,7 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
