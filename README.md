@@ -63,6 +63,11 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
+### Operating Systems:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+
 ## GitHub Stats
 
 ![Shawon Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5upto&show_icons=true&theme=radical)
