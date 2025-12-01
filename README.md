@@ -24,7 +24,7 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-![Yeoman](https://img.shields.io/badge/-Yeoman-FCC624?style=flat&logo=yeoman&logoColor=black)
+![Yeoman](https://img.shields.io/badge/Yeoman-FF5520?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTI4IiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUyOCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNzAiIHk9IjE5MCIgZm9udC1zaXplPSIxNzYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgd2hpdGUtc3BhY2U9InByZSIgZmlsbD0iI2ZmZiI+WTwvdGV4dD48L3N2Zz4=&logoColor=white)
 ![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=flat&logo=eclipsevertdotx&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
