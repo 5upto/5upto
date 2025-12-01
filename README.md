@@ -23,6 +23,8 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
+![Yeoman](https://img.shields.io/badge/-Yeoman-FCC624?style=flat&logo=yeoman&logoColor=black)
 ![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=flat&logo=eclipsevertdotx&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
