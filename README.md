@@ -74,7 +74,7 @@ I am currently a Technology Specialist at **Betopia Group**, where I am involved
 
 ## GitHub Stats
 
-![Shawon Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5upto&show_icons=true&theme=radical)
+![Shawon Ghosh's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=5upto&show_icons=true&theme=radical)
 
 ## How to Reach Me
 
