@@ -12,7 +12,7 @@ I am currently a Software Engineer at **Regnum Resource Ltd.**, where I am invol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Web Development:
+### Web Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1572B6?style=flat&logo=tailwindcss&logoColor=white)
@@ -33,6 +33,8 @@ I am currently a Software Engineer at **Regnum Resource Ltd.**, where I am invol
 ![Docker](https://img.shields.io/badge/Docker-008080?style=flat&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-E34F26?style=flat&logo=redis&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-C22127?style=flat&logo=aerospike&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
@@ -46,8 +48,6 @@ I am currently a Software Engineer at **Regnum Resource Ltd.**, where I am invol
 ![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-E34F26?style=flat&logo=redis&logoColor=white)
-![Aerospike](https://img.shields.io/badge/Aerospike-C22127?style=flat&logo=aerospike&logoColor=white)
 
 ### AI/ML Libraries:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
