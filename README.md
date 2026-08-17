@@ -1,6 +1,6 @@
 ## Collaborations and Research
 
-I am currently a Software Engineer at **Regnum Resource Ltd.**, where I am involved in intelligent transportation solutions, toll management systems, and AI-driven traffic management initiatives. I have previous industry experience from **Betopia**, **Itransition**, **BigBasket**, and research experience from **NIT Rourkela** (under Pankaj K Sa) and **IIT Mandi** (under Dr. Dinesh Singh).
+I am currently a Software Engineer, I am involved in intelligent transportation solutions, toll management systems, and AI-driven traffic management initiatives. I have previous industry experience from **Betopia**, **Itransition**, **BigBasket**, and research experience from **NIT Rourkela** (under Pankaj K Sa) and **IIT Mandi** (under Dr. Dinesh Singh).
 
 ## Technologies and Tools
 
